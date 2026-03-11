@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://aaarchangel.com"),
   title: "AAARCHANGEL",
   description: "Preparedness, knowledge and resilience.",
+  verification: {
+  google: "kJw3k4qW73piarDOWMCLLSjhXrJZjnM1LABWEZ9lwcg",
+  },
 };
 
 export default function RootLayout({
