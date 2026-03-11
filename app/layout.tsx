@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://aaarchangel.com"),
   title: "AAARCHANGEL",
   description: "Preparedness, knowledge and resilience.",
 };
