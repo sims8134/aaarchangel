@@ -5,9 +5,9 @@ import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://aarchangel.com"),
+  metadataBase: new URL("https://aaarchangel.com"),
 
-  title: "Aarchangel — Preparedness & Resilience Knowledge Platform",
+  title: "aaarchangel — Preparedness & Resilience Knowledge Platform",
   description:
     "Open-source preparedness platform with guides on communication systems, situational awareness, resilience and civilian preparedness.",
   verification: {
@@ -43,16 +43,16 @@ export const metadata: Metadata = {
   },
 
   openGraph: {
-    title: "Aarchangel",
+    title: "aaarchangel",
     description: "Practical preparedness knowledge for uncertain times.",
-    url: "https://aarchangel.com",
-    siteName: "Aarchangel",
+    url: "https://aaarchangel.com",
+    siteName: "aaarchangel",
     images: [
       {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Aarchangel preparedness platform",
+        alt: "aaarchangel preparedness platform",
       },
     ],
     type: "website",
@@ -60,7 +60,7 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Aarchangel",
+    title: "aaarchangel",
     description: "Practical preparedness knowledge platform.",
     images: ["/og-image.jpg"],
   },
