@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "AAARCHANGEL",
   description: "Preparedness, knowledge and resilience.",
   verification: {
-  google: "kJw3k4qW73piarDOWMCLLSjhXrJZjnM1LABWEZ9lwcg",
+  google:"kJw3k4qW73piarDOWMCLLSjhXrJZjnM1LABWEZ9lwcg"
   },
 };
 
