@@ -10,7 +10,9 @@ export const metadata: Metadata = {
   title: "Aarchangel — Preparedness & Resilience Knowledge Platform",
   description:
     "Open-source preparedness platform with guides on communication systems, situational awareness, resilience and civilian preparedness.",
-
+  verification: {
+  google: "kJw3k4qW73piarDOWMCLLSjhXrJZjnM1LABWEZ9lwcg",
+    },
   keywords: [
     "preparedness",
     "survival knowledge",
